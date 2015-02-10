@@ -1,4 +1,4 @@
-/* TODO:
+/* TODO: (test)
  *
  * Have some creeps harvesting, some creeps collecting
  * If a guard/ranger is too injured, retreat to (stdx,stdy)
